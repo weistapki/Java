@@ -1,4 +1,4 @@
-package Homework.hw4.progress;
+package Homework.hw4.barrier;
 
 public class Tredmill extends Obstracle{
     public Tredmill(String nameOfObstacle, double obstacleTypeSize) {

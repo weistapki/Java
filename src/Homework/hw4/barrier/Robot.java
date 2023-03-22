@@ -1,4 +1,4 @@
-package Homework.hw4.progress;
+package Homework.hw4.barrier;
 
 public class Robot extends Particepant{
     public Robot(String name, int lenght, int hight) {

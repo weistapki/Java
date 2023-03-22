@@ -1,4 +1,4 @@
-package Homework.hw4.progress;
+package Homework.hw4.barrier;
 
 public abstract class Obstracle {
     private final String nameOfObstacle;
